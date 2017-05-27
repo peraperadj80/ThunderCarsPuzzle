@@ -12,6 +12,26 @@
 		D20531191EB7A1DB0092E220 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D20531171EB7A1DB0092E220 /* Main.storyboard */; };
 		D205311B1EB7A1DB0092E220 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D205311A1EB7A1DB0092E220 /* Assets.xcassets */; };
 		D205311E1EB7A1DB0092E220 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D205311C1EB7A1DB0092E220 /* LaunchScreen.storyboard */; };
+		D205313B1EB7A22C0092E220 /* okvir.png in Resources */ = {isa = PBXBuildFile; fileRef = D20531271EB7A22C0092E220 /* okvir.png */; };
+		D205313C1EB7A22C0092E220 /* pozadina.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D20531281EB7A22C0092E220 /* pozadina.jpg */; };
+		D205313D1EB7A22C0092E220 /* slika1Retro.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D20531291EB7A22C0092E220 /* slika1Retro.jpg */; };
+		D205313E1EB7A22C0092E220 /* slika2Retro.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D205312A1EB7A22C0092E220 /* slika2Retro.jpg */; };
+		D205313F1EB7A22C0092E220 /* slika3Retro.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D205312B1EB7A22C0092E220 /* slika3Retro.jpg */; };
+		D20531401EB7A22C0092E220 /* slika4Retro.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D205312C1EB7A22C0092E220 /* slika4Retro.jpg */; };
+		D20531411EB7A22C0092E220 /* slika5Retro.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D205312D1EB7A22C0092E220 /* slika5Retro.jpg */; };
+		D20531451EB7A22C0092E220 /* slikaKola1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D20531311EB7A22C0092E220 /* slikaKola1.jpg */; };
+		D20531461EB7A22C0092E220 /* slikaKola2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D20531321EB7A22C0092E220 /* slikaKola2.jpg */; };
+		D20531471EB7A22C0092E220 /* slikaKola3.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D20531331EB7A22C0092E220 /* slikaKola3.jpg */; };
+		D20531481EB7A22C0092E220 /* slikaKola4.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D20531341EB7A22C0092E220 /* slikaKola4.jpg */; };
+		D20531491EB7A22C0092E220 /* slikaKola5.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D20531351EB7A22C0092E220 /* slikaKola5.jpg */; };
+		D205319D1EBB98050092E220 /* wrong.png in Resources */ = {isa = PBXBuildFile; fileRef = D205319B1EBB98050092E220 /* wrong.png */; };
+		D205319E1EBB98050092E220 /* yes.png in Resources */ = {isa = PBXBuildFile; fileRef = D205319C1EBB98050092E220 /* yes.png */; };
+		D213FA2B1ED84AE7009CC9C9 /* slikaKola6.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D213FA251ED84AE7009CC9C9 /* slikaKola6.jpg */; };
+		D213FA2C1ED84AE7009CC9C9 /* slikaKola7.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D213FA261ED84AE7009CC9C9 /* slikaKola7.jpg */; };
+		D213FA2D1ED84AE7009CC9C9 /* slikaKola8.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D213FA271ED84AE7009CC9C9 /* slikaKola8.jpg */; };
+		D213FA2E1ED84AE7009CC9C9 /* slikaRetro6.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D213FA281ED84AE7009CC9C9 /* slikaRetro6.jpg */; };
+		D213FA2F1ED84AE7009CC9C9 /* slikaRetro7.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D213FA291ED84AE7009CC9C9 /* slikaRetro7.jpg */; };
+		D213FA301ED84AE7009CC9C9 /* slikaRetro8.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D213FA2A1ED84AE7009CC9C9 /* slikaRetro8.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +42,26 @@
 		D205311A1EB7A1DB0092E220 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D205311D1EB7A1DB0092E220 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		D205311F1EB7A1DB0092E220 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D20531271EB7A22C0092E220 /* okvir.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = okvir.png; sourceTree = "<group>"; };
+		D20531281EB7A22C0092E220 /* pozadina.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = pozadina.jpg; sourceTree = "<group>"; };
+		D20531291EB7A22C0092E220 /* slika1Retro.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = slika1Retro.jpg; sourceTree = "<group>"; };
+		D205312A1EB7A22C0092E220 /* slika2Retro.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = slika2Retro.jpg; sourceTree = "<group>"; };
+		D205312B1EB7A22C0092E220 /* slika3Retro.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = slika3Retro.jpg; sourceTree = "<group>"; };
+		D205312C1EB7A22C0092E220 /* slika4Retro.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = slika4Retro.jpg; sourceTree = "<group>"; };
+		D205312D1EB7A22C0092E220 /* slika5Retro.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = slika5Retro.jpg; sourceTree = "<group>"; };
+		D20531311EB7A22C0092E220 /* slikaKola1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = slikaKola1.jpg; sourceTree = "<group>"; };
+		D20531321EB7A22C0092E220 /* slikaKola2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = slikaKola2.jpg; sourceTree = "<group>"; };
+		D20531331EB7A22C0092E220 /* slikaKola3.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = slikaKola3.jpg; sourceTree = "<group>"; };
+		D20531341EB7A22C0092E220 /* slikaKola4.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = slikaKola4.jpg; sourceTree = "<group>"; };
+		D20531351EB7A22C0092E220 /* slikaKola5.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = slikaKola5.jpg; sourceTree = "<group>"; };
+		D205319B1EBB98050092E220 /* wrong.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = wrong.png; sourceTree = "<group>"; };
+		D205319C1EBB98050092E220 /* yes.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = yes.png; sourceTree = "<group>"; };
+		D213FA251ED84AE7009CC9C9 /* slikaKola6.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = slikaKola6.jpg; sourceTree = "<group>"; };
+		D213FA261ED84AE7009CC9C9 /* slikaKola7.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = slikaKola7.jpg; sourceTree = "<group>"; };
+		D213FA271ED84AE7009CC9C9 /* slikaKola8.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = slikaKola8.jpg; sourceTree = "<group>"; };
+		D213FA281ED84AE7009CC9C9 /* slikaRetro6.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = slikaRetro6.jpg; sourceTree = "<group>"; };
+		D213FA291ED84AE7009CC9C9 /* slikaRetro7.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = slikaRetro7.jpg; sourceTree = "<group>"; };
+		D213FA2A1ED84AE7009CC9C9 /* slikaRetro8.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = slikaRetro8.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +99,26 @@
 				D20531171EB7A1DB0092E220 /* Main.storyboard */,
 				D205311A1EB7A1DB0092E220 /* Assets.xcassets */,
 				D205311C1EB7A1DB0092E220 /* LaunchScreen.storyboard */,
+				D205319C1EBB98050092E220 /* yes.png */,
+				D20531271EB7A22C0092E220 /* okvir.png */,
+				D20531281EB7A22C0092E220 /* pozadina.jpg */,
+				D20531291EB7A22C0092E220 /* slika1Retro.jpg */,
+				D205312A1EB7A22C0092E220 /* slika2Retro.jpg */,
+				D205312B1EB7A22C0092E220 /* slika3Retro.jpg */,
+				D205312C1EB7A22C0092E220 /* slika4Retro.jpg */,
+				D205312D1EB7A22C0092E220 /* slika5Retro.jpg */,
+				D20531311EB7A22C0092E220 /* slikaKola1.jpg */,
+				D20531321EB7A22C0092E220 /* slikaKola2.jpg */,
+				D20531331EB7A22C0092E220 /* slikaKola3.jpg */,
+				D20531341EB7A22C0092E220 /* slikaKola4.jpg */,
+				D20531351EB7A22C0092E220 /* slikaKola5.jpg */,
+				D213FA251ED84AE7009CC9C9 /* slikaKola6.jpg */,
+				D213FA261ED84AE7009CC9C9 /* slikaKola7.jpg */,
+				D213FA271ED84AE7009CC9C9 /* slikaKola8.jpg */,
+				D213FA281ED84AE7009CC9C9 /* slikaRetro6.jpg */,
+				D213FA291ED84AE7009CC9C9 /* slikaRetro7.jpg */,
+				D213FA2A1ED84AE7009CC9C9 /* slikaRetro8.jpg */,
+				D205319B1EBB98050092E220 /* wrong.png */,
 				D205311F1EB7A1DB0092E220 /* Info.plist */,
 			);
 			path = "munja puzzle";
@@ -96,6 +156,7 @@
 				TargetAttributes = {
 					D205310F1EB7A1DB0092E220 = {
 						CreatedOnToolsVersion = 8.3.2;
+						DevelopmentTeam = B634WJ46GF;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -123,9 +184,29 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D213FA2D1ED84AE7009CC9C9 /* slikaKola8.jpg in Resources */,
+				D20531471EB7A22C0092E220 /* slikaKola3.jpg in Resources */,
+				D205313B1EB7A22C0092E220 /* okvir.png in Resources */,
+				D205319E1EBB98050092E220 /* yes.png in Resources */,
 				D205311E1EB7A1DB0092E220 /* LaunchScreen.storyboard in Resources */,
+				D213FA2F1ED84AE7009CC9C9 /* slikaRetro7.jpg in Resources */,
+				D20531491EB7A22C0092E220 /* slikaKola5.jpg in Resources */,
+				D20531411EB7A22C0092E220 /* slika5Retro.jpg in Resources */,
+				D20531401EB7A22C0092E220 /* slika4Retro.jpg in Resources */,
+				D213FA301ED84AE7009CC9C9 /* slikaRetro8.jpg in Resources */,
+				D205313C1EB7A22C0092E220 /* pozadina.jpg in Resources */,
+				D20531451EB7A22C0092E220 /* slikaKola1.jpg in Resources */,
+				D205313E1EB7A22C0092E220 /* slika2Retro.jpg in Resources */,
+				D213FA2C1ED84AE7009CC9C9 /* slikaKola7.jpg in Resources */,
 				D205311B1EB7A1DB0092E220 /* Assets.xcassets in Resources */,
 				D20531191EB7A1DB0092E220 /* Main.storyboard in Resources */,
+				D213FA2E1ED84AE7009CC9C9 /* slikaRetro6.jpg in Resources */,
+				D20531461EB7A22C0092E220 /* slikaKola2.jpg in Resources */,
+				D205313D1EB7A22C0092E220 /* slika1Retro.jpg in Resources */,
+				D20531481EB7A22C0092E220 /* slikaKola4.jpg in Resources */,
+				D205313F1EB7A22C0092E220 /* slika3Retro.jpg in Resources */,
+				D213FA2B1ED84AE7009CC9C9 /* slikaKola6.jpg in Resources */,
+				D205319D1EBB98050092E220 /* wrong.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -262,9 +343,10 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = B634WJ46GF;
 				INFOPLIST_FILE = "munja puzzle/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.crossover.g11.munja-puzzle";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.crossover.g11.ThunderCar-puzzle";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
 			};
@@ -274,9 +356,10 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = B634WJ46GF;
 				INFOPLIST_FILE = "munja puzzle/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.crossover.g11.munja-puzzle";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.crossover.g11.ThunderCar-puzzle";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
 			};
@@ -301,6 +384,7 @@
 				D20531241EB7A1DB0092E220 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
